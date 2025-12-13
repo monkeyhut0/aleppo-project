@@ -1,0 +1,16 @@
+// Initialize the map on the 'map' div with settings
+const map = L.map('map', {
+    center: [36.1976903, 37.1550053],
+    maxBounds: [[36.261535, 37.076000],
+                [36.136501, 37.252786]],
+    maxBoundsViscosity: 0.9,
+    zoom: 13,
+    minZoom: 12,
+
+});
+
+// Add the base tile layer from openstreetmap
+L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    maxZoom: 19,
+    attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
+}).addTo(map);
