@@ -2,3 +2,8 @@
     height: 900px;
     width: 100%;
 }
+
+.image {
+    height: auto;
+    width: 300px;
+}
