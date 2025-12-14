@@ -3,142 +3,187 @@
         {
             "coordinates": [36.199237, 37.156849],
             "name": "Umayyad Mosque",
+            "description": "this is a place",
             "images": [
                 {
-                    "file": "",
-                    "year": 2010
+                    "file": "umayyad_2010.webp",
+                    "year": 2010,
+                    "source": "https://www.cbsnews.com/pictures/aleppo-before-and-after-syria-civil-war/5/"
                 },
                 {
-                    "file": "",
-                    "year": 2016
+                    "file": "umayyad_2016.webp",
+                    "year": 2016,
+                    "source": "https://www.cbsnews.com/pictures/aleppo-before-and-after-syria-civil-war/5/"
+                },
+                {
+                    "file": "umayyad_2023.webp",
+                    "year": 2023,
+                    "source": "https://apnews.com/article/earthquake-syria-aleppo-5dd29e129a81ed96e9e24bdabe3a4a9d"
                 }
             ]
         },
         {
             "coordinates": [36.198072, 37.157318],
             "name": "Hammam al-Nahasin",
+            "description": "this is a place",
             "images": [
                 {
                     "file": "",
-                    "year": 2010
+                    "year": 2010,
+                    "source": "https://www.bbc.com/news/world-middle-east-38396747"
                 },
                 {
                     "file": "",
-                    "year": 2016
+                    "year": 2016,
+                    "source": "https://www.bbc.com/news/world-middle-east-38396747"
                 },
                 {
-                    "file": "",
-                    "year": 2024
+                    "file": "hammam_2024.jpg",
+                    "year": 2024,
+                    "source": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSwpEHlkkLn9_l839ErQN_88yfNnrgUPhqp5hKcYGryEoF_91ih2NeQDszTLAAuCUr2rbF-L_69kjZ6mRYWU_vnOBtb_bGxMRh2clrtwp2khxRu5BgKGIVhuTTVyfZrc324VhqaYUg=s2048-v1"
                 }
             ]
         },
         {
             "coordinates": [36.257868, 37.095894],
             "name": "Shabha Mall",
+            "description": "this is a place",
             "images": [
                 {
                     "file": "",
-                    "year": 2009
+                    "year": 2009,
+                    "source": "https://www.bbc.com/news/world-middle-east-38396747"
                 },
                 {
                     "file": "",
-                    "year": 2014
+                    "year": 2014,
+                    "source": "https://www.bbc.com/news/world-middle-east-38396747"
                 }
             ]
         },
         {
             "coordinates": [36.206164, 37.160555],
             "name": "Old City",
+            "description": "this is a place",
             "images": [
                 {
-                    "file": "",
-                    "year": 2009
+                    "file": "old_city_2009.webp",
+                    "year": 2009,
+                    "source": "https://www.reuters.com/news/picture/aleppo-then-and-nowidUSRTSVEHV/"
                 },
                 {
-                    "file": "",
-                    "year": 2016
+                    "file": "old_city_2016.webp",
+                    "year": 2016,
+                    "source": "https://www.reuters.com/news/picture/aleppo-then-and-nowidUSRTSVEHV/"
+                },
+                {
+                    "file": "old_city_2025.avif",
+                    "year": 2025,
+                    "source": "https://www.thenationalnews.com/news/mena/2025/12/12/aleppo-rises-from-ruins-but-waits-to-feel-richer-for-it/"
                 }
             ]
         },
         {
             "coordinates": [36.199391, 37.162938],
             "name": "Citadel of Aleppo",
+            "description": "this is a place",
             "images": [
                 {
-                    "file": "",
-                    "year": 2008
+                    "file": "citadel_2008.webp",
+                    "year": 2008,
+                    "source": "https://www.cbsnews.com/pictures/aleppo-before-and-after-syria-civil-war/7/"
                 },
                 {
-                    "file": "",
-                    "year": 2016
+                    "file": "citadel_2016.webp",
+                    "year": 2016,
+                    "source": "https://www.cbsnews.com/pictures/aleppo-before-and-after-syria-civil-war/7/"
                 }
             ]
         },
         {
             "coordinates": [36.206446, 37.157645],
             "name": "al-Jdeideh",
+            "description": "this is a place",
             "images": [
                 {
-                    "file": "",
-                    "year": 2012
+                    "file": "al-Jdeideh_2009.webp",
+                    "year": 2009,
+                    "source": "https://www.cbsnews.com/pictures/aleppo-before-and-after-syria-civil-war/13/"
                 },
                 {
-                    "file": "",
-                    "year": 2012
+                    "file": "al-Jdeideh_2016.webp",
+                    "year": 2016,
+                    "source": "https://www.cbsnews.com/pictures/aleppo-before-and-after-syria-civil-war/13/"
                 }
             ]
         },
         {
             "coordinates": [36.206778, 37.156417],
             "name": "Beit Gazaleh",
+            "description": "this is a place",
             "images": [
                 {
-                    "file": "",
-                    "year": 2001
+                    "file": "gazaleh_2001.webp",
+                    "year": 2001,
+                    "source": "https://www.thetimes.com/world/middle-east/article/in-aleppos-old-quarter-a-story-of-syrian-survival-emerges-djdgxr057?gaa_at=eafs&gaa_n=AWEtsqdt2OVW-2YLj-oZE-lpUWLgaR2iHWwVhMxEqNFVVNW0mPY6GY9jlM7j&gaa_ts=693dcfb6&gaa_sig=FWQvh0YDTbA0QMUv_LlvSdi_P0OrsCbbnt5Et-b7YCTIZNovh5j6PZepmONASeldnlhg4BMTyFqpYCTkkH7WKw%3D%3D"
                 },
                 {
-                    "file": "",
-                    "year": 2016
+                    "file": "gazaleh_2025.webp",
+                    "year": 2025,
+                    "source": "https://www.thetimes.com/world/middle-east/article/in-aleppos-old-quarter-a-story-of-syrian-survival-emerges-djdgxr057?gaa_at=eafs&gaa_n=AWEtsqdt2OVW-2YLj-oZE-lpUWLgaR2iHWwVhMxEqNFVVNW0mPY6GY9jlM7j&gaa_ts=693dcfb6&gaa_sig=FWQvh0YDTbA0QMUv_LlvSdi_P0OrsCbbnt5Et-b7YCTIZNovh5j6PZepmONASeldnlhg4BMTyFqpYCTkkH7WKw%3D%3D"
                 }
             ]
         },
         {
             "coordinates": [36.237414, 37.192894],
             "name": "Haydariyeh",
+            "description": "this is a place",
             "images": [
                 {
-                    "file": "",
-                    "year": 2025
+                    "file": "hadariya_2025.png",
+                    "year": 2025,
+                    "source": "https://www.lemonde.fr/en/international/article/2025/12/11/if-they-want-to-destroy-our-houses-they-ll-have-to-do-it-over-our-heads-in-syria-the-arduous-task-of-reconstruction_6748368_4.html"
                 }
             ]
         },
         {
             "coordinates": [36.181037, 37.123286],
             "name": "Salaheddin",
+            "description": "this is a place",
             "images": [
                 {
-                    "file": "",
-                    "year": 2025
+                    "file": "salaheddin_2023.png",
+                    "year": 2023,
+                    "source": "https://apnews.com/article/earthquake-syria-aleppo-5dd29e129a81ed96e9e24bdabe3a4a9d"
+                },
+                {
+                    "file": "salaheddin_2025.png",
+                    "year": 2025,
+                    "source": "https://www.lemonde.fr/en/international/article/2025/12/11/if-they-want-to-destroy-our-houses-they-ll-have-to-do-it-over-our-heads-in-syria-the-arduous-task-of-reconstruction_6748368_4.html"
                 }
             ]
         },
         {
             "coordinates": [36.232535, 37.206182],
             "name": "Hanano",
+            "description": "this is a place",
             "images": [
                 {
-                    "file": "",
-                    "year": 2024
+                    "file": "hanano_2024.webp",
+                    "year": 2024,
+                    "source": "https://apnews.com/article/syria-turkey-refugee-family-assad-e99724450d781d439c2d7083311bd108"
                 }
             ]
         },
         {
             "coordinates": [36.347048, 37.091727],
             "name": "Ratyan",
+            "description": "this is a place",
             "images": [
                 {
-                    "file": "",
-                    "year": 2025
+                    "file": "ratyan_2025",
+                    "year": 2025,
+                    "source": "https://www.reuters.com/world/middle-east/lacking-aid-syrians-do-what-they-can-rebuild-devastated-aleppo-2025-04-29/"
                 }
             ]
         }
