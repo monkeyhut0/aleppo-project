@@ -35,7 +35,10 @@ fetch("./locations.json")
                 `<b>${loc.name}</b><br>
                 ${loc.description}`;
             for (const img of loc.images) {
-                popupElement += `<br><img class="image" src="./images/${img.file}"><br>${img.year}`
+                popupElement += `<br><a href="./images/${img.file}" target="_blank">
+                <img class="image" src="./images/${img.file}">
+                </a><br>
+                ${img.year} <a href="${img.source}" target="_blank">Source</a>`
             }
             marker.bindPopup(popupElement);
         };
