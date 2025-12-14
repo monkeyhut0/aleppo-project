@@ -1,0 +1,146 @@
+{
+    "locations": [
+        {
+            "coordinates": [36.199237, 37.156849],
+            "name": "Umayyad Mosque",
+            "images": [
+                {
+                    "file": "",
+                    "year": 2010
+                },
+                {
+                    "file": "",
+                    "year": 2016
+                }
+            ]
+        },
+        {
+            "coordinates": [36.198072, 37.157318],
+            "name": "Hammam al-Nahasin",
+            "images": [
+                {
+                    "file": "",
+                    "year": 2010
+                },
+                {
+                    "file": "",
+                    "year": 2016
+                },
+                {
+                    "file": "",
+                    "year": 2024
+                }
+            ]
+        },
+        {
+            "coordinates": [36.257868, 37.095894],
+            "name": "Shabha Mall",
+            "images": [
+                {
+                    "file": "",
+                    "year": 2009
+                },
+                {
+                    "file": "",
+                    "year": 2014
+                }
+            ]
+        },
+        {
+            "coordinates": [36.206164, 37.160555],
+            "name": "Old City",
+            "images": [
+                {
+                    "file": "",
+                    "year": 2009
+                },
+                {
+                    "file": "",
+                    "year": 2016
+                }
+            ]
+        },
+        {
+            "coordinates": [36.199391, 37.162938],
+            "name": "Citadel of Aleppo",
+            "images": [
+                {
+                    "file": "",
+                    "year": 2008
+                },
+                {
+                    "file": "",
+                    "year": 2016
+                }
+            ]
+        },
+        {
+            "coordinates": [36.206446, 37.157645],
+            "name": "al-Jdeideh",
+            "images": [
+                {
+                    "file": "",
+                    "year": 2012
+                },
+                {
+                    "file": "",
+                    "year": 2012
+                }
+            ]
+        },
+        {
+            "coordinates": [36.206778, 37.156417],
+            "name": "Beit Gazaleh",
+            "images": [
+                {
+                    "file": "",
+                    "year": 2001
+                },
+                {
+                    "file": "",
+                    "year": 2016
+                }
+            ]
+        },
+        {
+            "coordinates": [36.237414, 37.192894],
+            "name": "Haydariyeh",
+            "images": [
+                {
+                    "file": "",
+                    "year": 2025
+                }
+            ]
+        },
+        {
+            "coordinates": [36.181037, 37.123286],
+            "name": "Salaheddin",
+            "images": [
+                {
+                    "file": "",
+                    "year": 2025
+                }
+            ]
+        },
+        {
+            "coordinates": [36.232535, 37.206182],
+            "name": "Hanano",
+            "images": [
+                {
+                    "file": "",
+                    "year": 2024
+                }
+            ]
+        },
+        {
+            "coordinates": [36.347048, 37.091727],
+            "name": "Ratyan",
+            "images": [
+                {
+                    "file": "",
+                    "year": 2025
+                }
+            ]
+        }
+    ]
+}
