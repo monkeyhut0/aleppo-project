@@ -28,12 +28,12 @@
             "description": "this is a place",
             "images": [
                 {
-                    "file": "",
+                    "file": "hammam_2010.jpg",
                     "year": 2010,
                     "source": "https://www.bbc.com/news/world-middle-east-38396747"
                 },
                 {
-                    "file": "",
+                    "file": "hammam_2016.jpg",
                     "year": 2016,
                     "source": "https://www.bbc.com/news/world-middle-east-38396747"
                 },
@@ -50,12 +50,12 @@
             "description": "this is a place",
             "images": [
                 {
-                    "file": "",
+                    "file": "shabha_2009.jpg",
                     "year": 2009,
                     "source": "https://www.bbc.com/news/world-middle-east-38396747"
                 },
                 {
-                    "file": "",
+                    "file": "shabha_2014.jpg",
                     "year": 2014,
                     "source": "https://www.bbc.com/news/world-middle-east-38396747"
                 }
@@ -152,7 +152,7 @@
             "description": "this is a place",
             "images": [
                 {
-                    "file": "salaheddin_2023.png",
+                    "file": "salaheddin_2023.webp",
                     "year": 2023,
                     "source": "https://apnews.com/article/earthquake-syria-aleppo-5dd29e129a81ed96e9e24bdabe3a4a9d"
                 },
@@ -181,7 +181,7 @@
             "description": "this is a place",
             "images": [
                 {
-                    "file": "ratyan_2025",
+                    "file": "ratyan_2025.jpg",
                     "year": 2025,
                     "source": "https://www.reuters.com/world/middle-east/lacking-aid-syrians-do-what-they-can-rebuild-devastated-aleppo-2025-04-29/"
                 }
