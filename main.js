@@ -1,11 +1,11 @@
 // Initialize the map on the 'map' div with settings
 const map = L.map('map', {
-    center: [36.1976903, 37.1550053],
-    maxBounds: [[36.261535, 37.076000],
-                [36.136501, 37.252786]],
-    maxBoundsViscosity: 0.9,
-    zoom: 13,
-    minZoom: 12,
+    center: [36.231908, 37.105085],
+    maxBounds: [[36.377826, 36.963714],
+                [36.074136, 37.469514]],
+    maxBoundsViscosity: 0.1,
+    zoom: 12,
+    minZoom: 11,
 
 });
 
@@ -26,6 +26,7 @@ fetch("./locations.json")
     .then(response => response.json())
     .then(data => {
         const locations = data.locations;
+
         for (const loc of locations ) {
             console.log("Marking " + loc.name + "...")
             var marker = L.marker(loc.coordinates).addTo(map);
@@ -41,5 +42,5 @@ fetch("./locations.json")
                 ${img.year} <a href="${img.source}" target="_blank">Source</a>`
             }
             marker.bindPopup(popupElement);
-        };
+        }
     });
