@@ -33,8 +33,8 @@ fetch("./locations.json")
 
             // create popup
             var popupElement = 
-                `<b>${loc.name}</b><br>
-                ${loc.description}`;
+                `<b>${loc.name}</b><br>`;
+                //${loc.description}`;
             for (const img of loc.images) {
                 popupElement += `<br><a href="./images/${img.file}" target="_blank">
                 <img class="image" src="./images/${img.file}">
