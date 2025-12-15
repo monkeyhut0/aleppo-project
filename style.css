@@ -1,6 +1,13 @@
-#map {
-    height: 900px;
-    width: 100%;
+#container {
+    display: grid;
+    grid-template-columns: 1fr 4fr;
+    height: 98vh;
+}
+
+#blurb {
+    font-family:"Helvetica Neue", Arial, Helvetica, sans-serif;
+    padding: 10px;
+    background-color: #aaaaaa;
 }
 
 .image {
