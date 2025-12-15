@@ -1,7 +1,7 @@
 // Initialize the map on the 'map' div with settings
 const map = L.map('map', {
     center: [36.231908, 37.105085],
-    maxBounds: [[36.377826, 36.963714],
+    maxBounds: [[36.444672, 36.929808],
                 [36.074136, 37.469514]],
     maxBoundsViscosity: 0.1,
     zoom: 12,
